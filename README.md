@@ -1,6 +1,6 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
 
-![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
+<img width="2226" height="678" alt="Image" src="https://github.com/user-attachments/assets/0a5d1b99-ef4c-4a78-871a-be97b9b9dd38" />
 
 ## Overview
 This project analyzes Netflix’s catalog of movies and TV shows to uncover key insights and trends. Using exploratory data analysis, it solves 15 business problems such as identifying content distribution, most common ratings, top countries, popular actors/directors, and genre-based patterns. It also categorizes content based on keywords like kill and violence to assess quality labeling. The goal is to provide data-driven insights into Netflix’s content strategy and audience preferences.
